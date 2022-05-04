@@ -1,0 +1,5 @@
+{
+    "imports": {
+        "https://raw.githubusercontent.com/ChromeDevTools/devtools-protocol/3a7051b8312a66c3e37a5d1b3981396ff49de36b/types/protocol": "https://raw.githubusercontent.com/ChromeDevTools/devtools-protocol/3a7051b8312a66c3e37a5d1b3981396ff49de36b/types/protocol.d.ts"
+    }
+}
